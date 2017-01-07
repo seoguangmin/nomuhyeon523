@@ -1,7 +1,7 @@
 {
-  "name": "eamessenger",
+  "name": "nomuhyeon523messenger",
   "version": "0.0.1",
-  "description": "eamessenger",
+  "description": "nomuhyeon523messenger",
   "dependencies": {
     "express": "4.10.2",
     "nodemon": "^1.11.0",
